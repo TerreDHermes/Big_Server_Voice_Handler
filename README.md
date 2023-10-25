@@ -1,3 +1,4 @@
+![photo](https://github.com/TerreDHermes/TerreDHermes/blob/main/assets/voicehandler.png)
 # Big_Server_Voice_Handler
 ## Чем занимается этот модуль?
 Это второй модуль сервера для приложения [VoiceHandler](https://github.com/TerreDHermes/VoiceHandler). Эта программа преобразует аудиозапись в расшифровку (текст со знаками препинания, процентное содержание слов-паразитов в тексте и т.д.). 
